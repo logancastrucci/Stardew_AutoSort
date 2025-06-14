@@ -1,0 +1,10 @@
+{
+    "Name": "AutoSort",
+    "Author": "logancastrucci",
+    "Version": "1.0.0",
+    "Description": "Automatically sort inventory and all chests",
+    "UniqueID": "logancastrucci.autosort",
+    "EntryDll": "autosort.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": []
+}
