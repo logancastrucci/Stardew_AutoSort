@@ -1,5 +1,3 @@
-Here's your README reformatted to a maximum of 80 characters per line:
-
 This document is for mod authors who'd like their mods to
 automatically configure AutoSort to sort items in custom
 inventories or chests.

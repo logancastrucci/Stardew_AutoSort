@@ -1,6 +1,4 @@
-﻿Here's your `README.md` reformatted with a max of 80 characters per line:
-
-**AutoSort** is a [Stardew Valley](http://stardewvalley.net/) mod
+﻿**AutoSort** is a [Stardew Valley](http://stardewvalley.net/) mod
 which automatically sorts your player's inventory and chests.
 
 -----
